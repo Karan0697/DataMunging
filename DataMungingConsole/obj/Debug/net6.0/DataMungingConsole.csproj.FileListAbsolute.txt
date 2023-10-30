@@ -1,0 +1,16 @@
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DataMungingConsole.exe
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DataMungingConsole.deps.json
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DataMungingConsole.runtimeconfig.json
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DataMungingConsole.dll
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DataMungingConsole.pdb
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.AssemblyInfoInputs.cache
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.AssemblyInfo.cs
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.csproj.CoreCompileInputs.cache
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.dll
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\refint\DataMungingConsole.dll
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.pdb
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\DataMungingConsole.genruntimeconfig.cache
+C:\repos\DataMungingConsole\DataMungingConsole\obj\Debug\net6.0\ref\DataMungingConsole.dll
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DatFiles\football.dat
+C:\repos\DataMungingConsole\DataMungingConsole\bin\Debug\net6.0\DatFiles\weather.dat
